@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded datasets and preprocessing results
+/data/
+/output/
+
+# Local MLflow storage
+/artifacts/
+/mlruns/
+/mlartifacts/
+/mlflow.db
+/mlflow.db-*

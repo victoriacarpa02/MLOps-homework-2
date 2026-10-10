@@ -1,0 +1,2 @@
+mlflow==3.17.0
+hyperopt==0.3.0
